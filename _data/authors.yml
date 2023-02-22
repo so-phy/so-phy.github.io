@@ -26,7 +26,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
+  # twitter:          <username>
+    twitter:         https://velog.io/@pyk0844
     github:          so-phy
     email:           phy3171@gmail.com
     # rss:             https://<url>/feed.xml
