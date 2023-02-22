@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-date: '2023-01-18 13:23:09 +0900'
+title:  "Welcome to Jekyll!"
+date:   2023-01-18 13:23:09 +0900
 categories: jekyll update
-published: true
 ---
 
 update test.........
